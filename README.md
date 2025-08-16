@@ -14,6 +14,7 @@ The goal of this mini project is to answer a few questions regarding administrat
 After answering required questions, cleaned data will be exported for visualisation in Tableau.
 
 ## 📊 Tableau Dashboard
+👀 Preview
 ![Dashboard Preview](images/dashboard_preview.jpg)
 
 You can explore the interactive dashboard on [Tableau Public](https://tinyurl.com/HospitalDashboard).
