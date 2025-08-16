@@ -1,7 +1,7 @@
 # 🏥 Hospital administration data analytics project
 
 ## 📈 Exploratory Data Analysis
-Datasource: https://www.kaggle.com/datasets/abdulqaderasiirii/hospital-patient-data/data
+[Datasource](https://www.kaggle.com/datasets/abdulqaderasiirii/hospital-patient-data/data)
 
 The goal of this mini project is to answer a few questions regarding administrative issues in this hospital.
 
@@ -14,7 +14,6 @@ The goal of this mini project is to answer a few questions regarding administrat
 After answering required questions, cleaned data will be exported for visualisation in Tableau.
 
 ## 📊 Tableau Dashboard
+![Dashboard Preview](assets/dashboard.jpg)
+
 You can explore the interactive dashboard on [Tableau Public](https://tinyurl.com/HospitalDashboard).
-
-
-
